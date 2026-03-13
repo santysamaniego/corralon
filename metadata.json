@@ -1,0 +1,7 @@
+{
+  "name": "Corralón San José - Materiales de Construcción",
+  "description": "Venta de materiales para la construcción, entregas a domicilio y asesoramiento profesional para obras.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
